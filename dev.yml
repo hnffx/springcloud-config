@@ -1,1 +1,3 @@
-这是开发时环境
+config:
+  dev:
+    version: version1.0
